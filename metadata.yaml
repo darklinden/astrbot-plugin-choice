@@ -1,0 +1,6 @@
+name: choice
+author: darklinden
+desc: 随机选择器。帮你从多个选项中随机选择一个。
+version: 1.0.0
+display_name: 帮我选
+short_desc: 从多个选项中随机选择一个
